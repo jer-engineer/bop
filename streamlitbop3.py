@@ -13,7 +13,7 @@ st.set_page_config(page_title="Cloud Weld Manager Pro", layout="wide", page_icon
 DEFAULT_LINE_COL = "LINE No"
 DEFAULT_WELD_COL = "Weld No"
 DEFAULT_REF_COLS = ["TYPE 1", "TYPE 2", "SYSTEM"] # <--- ΤΑ ΝΕΑ DEFAULTS
-REPO_MASTER_FILE = "masterbop.xlsx" # Το όνομα του αρχείου που θα ψάχνει αυτόματα
+REPO_MASTER_FILE = "master.xlsx" # Το όνομα του αρχείου που θα ψάχνει αυτόματα
 
 # --- 0. ΛΕΙΤΟΥΡΓΙΕΣ ΑΠΟΘΗΚΕΥΣΗΣ (PERSISTENCE) ---
 SETTINGS_FILE = "settings.json"
